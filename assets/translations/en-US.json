@@ -3,9 +3,10 @@
     "numbers":"Numbers",
     "vowels":"Vowels",
     "animals":"Animals",
-    "body_human":"Body Human",
+    "body_human":"Body",
     "shapes":"Shapes",
     "consonants":"Consonants",
     "transports":"Transport",
-    "family":"Family"
+    "family":"Family",
+    "fruits":"Fruits",
 }

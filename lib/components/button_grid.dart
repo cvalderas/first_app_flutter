@@ -36,16 +36,16 @@ class ButtonGrid extends StatelessWidget {
             Ink.image(
               image: NetworkImage(image),
               fit: BoxFit.cover,
-              width: 500,
-              height: 320,
+              width: 190,
+              height: 145,
             ),
             const SizedBox(
-              height: 10,
+              height: 6,
             ),
             Text(
               title,
               style: TextStyle(
-                  fontSize: 38, color: colorText, fontWeight: FontWeight.bold),
+                  fontSize: 24, color: colorText, fontWeight: FontWeight.bold),
             ).tr(),
           ],
         ),

@@ -26,7 +26,7 @@ class HomeScreen extends StatelessWidget {
           padding: const EdgeInsets.all(20),
           crossAxisSpacing: 10,
           mainAxisSpacing: 10,
-          crossAxisCount: 1,
+          crossAxisCount: 2,
           children: <Widget>[
             for (var option in options)
               ButtonGrid(
@@ -118,5 +118,5 @@ List<Options> options = [
       colorBg: Colors.pinkAccent,
       colorText: Colors.white,
       image:
-          'https://www.orientacionandujar.es/wp-content/uploads/2018/05/t1.jpg'),
+          'https://enfermeria.uc.cl/wp-content/uploads/2022/01/Herramienta-para-Estudio-de-Familia-en-Atencion-Primaria.jpg'),
 ];
